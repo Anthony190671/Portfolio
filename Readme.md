@@ -1,2 +1,2 @@
 # Portfolio
-## Excercie html/CSS
+Exercice de Portfolio
